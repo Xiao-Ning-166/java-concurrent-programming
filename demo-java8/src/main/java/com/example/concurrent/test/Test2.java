@@ -1,6 +1,5 @@
 package com.example.concurrent.test;
 
-import com.sun.tools.javac.Main;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j(topic = "log")

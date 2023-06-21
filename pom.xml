@@ -13,6 +13,7 @@
     <modules>
         <!-- jdk8+演示代码 -->
         <module>demo-java8</module>
+        <module>ordering</module>
     </modules>
 
     <properties>
